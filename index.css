@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+.background-white {
+    height: 200px;
+    background-color: white;
+}
+li {
+    font-size: 20px;
+    padding-bottom: 9.5px;
+    text-decoration: none;
+}
+img {
+    float: left;
+    right: 180px;
+    position: absolute;
+}
+
+span {
+    text-align: left;
+}
+
+.cover {
+    height: 300px;
+    min-height: 100%;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("./images/cover.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cover-title {
+    margin: 0;
+    color: #eee;
+    text-align: center;
+    padding: 120px 0;
+    text-shadow: 4px 4px #000;
+    font-size: 60px;
+}
+
+.jarak {
+    padding-top: 49px;
+}
